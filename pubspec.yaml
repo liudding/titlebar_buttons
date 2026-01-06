@@ -19,7 +19,7 @@ dependencies:
   dbus: ">=0.7.1 <1.0.0"
   flutter:
     sdk: flutter
-  flutter_svg: ">=1.0.0 <2.0.0"
+  flutter_svg: ^2.0.17
   gsettings: ">=0.2.5 <1.0.0"
 
 dev_dependencies:
