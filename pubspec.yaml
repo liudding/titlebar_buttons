@@ -15,7 +15,7 @@ platforms:
   windows:
 
 dependencies:
-  change_case: ">=1.0.1 < 2.0.0"
+  change_case: ^2.2.0
   dbus: ">=0.7.1 <1.0.0"
   flutter:
     sdk: flutter
